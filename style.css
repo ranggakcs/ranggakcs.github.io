@@ -1,3 +1,19 @@
-p {
-    font-family: 'Courier New', Courier, monospace;
+/* index.html */
+body {
+    background-color: #e5e5e5;
+    /* background-image: url(img/bg2.jpg);
+    background-size:cover; */
 }
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+li>a {
+    text-decoration: none;
+}
+
+/* about.html */
+/* project.html */
+/* contact.html */
